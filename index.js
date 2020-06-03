@@ -2,7 +2,6 @@
 const qrcode = require('qrcode');
 const ip = require('ip');
 
-console.log(process.argv);
 let port = process.argv[2] || '';
 
 a = `${ip.address()}${port ? ':' : ''}${port}`
