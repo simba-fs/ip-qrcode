@@ -1,0 +1,28 @@
+{
+  "name": "ip-qrcode",
+  "version": "1.0.0",
+  "description": "print ip in qrcode in terminal",
+  "main": "index.js",
+  "dependencies": {
+    "ip": "^1.1.5",
+    "qrcode": "^1.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simba-fs/ip-qrcode.git"
+  },
+  "keywords": [
+    "qrcode",
+    "ip"
+  ],
+  "author": "Simba Fs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simba-fs/ip-qrcode/issues"
+  },
+  "homepage": "https://github.com/simba-fs/ip-qrcode#readme"
+}
