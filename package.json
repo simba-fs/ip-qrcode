@@ -1,8 +1,9 @@
 {
   "name": "ip-qrcode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "print ip in qrcode in terminal",
   "main": "index.js",
+  "bin": "index.js",
   "dependencies": {
     "ip": "^1.1.5",
     "qrcode": "^1.4.4"
